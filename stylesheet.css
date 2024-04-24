@@ -1,0 +1,47 @@
+
+body {
+    font-family: sans-serif;
+    color: #333;
+}
+
+
+header {
+    background-color: #0d6efd;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+
+container {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+
+float-left {
+    float: left;
+    width: 50%;
+    padding: 20px;
+  
+}
+
+float-right {
+    float: right;
+    width: 50%;
+    padding: 20px;
+}
+
+
+centered {
+    text-align: center;
+    padding: 20px;
+}
+
+
+box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
